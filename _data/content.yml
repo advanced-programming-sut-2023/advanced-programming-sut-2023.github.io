@@ -4,13 +4,13 @@ includes:
     data: 20
 
   - meta: Exercises
-    data: 6
+    data: 4
 
   - meta: Assistants
-    data: 45
+    data: 77
 
   - meta: Students
-    data: 170+
+    data: 188+
 
  
 
