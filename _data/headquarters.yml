@@ -1,9 +1,9 @@
-- name: Sina Elahimanesh
+- name: Amirmahdi Koushesi
   role: Head TA
-  image: https://drive.google.com/open?id=1RxSj-5We4zm_sW5RSOl59k_9Tfc3n9Ua
+  image: 
   social:
     - name: github
-      link: https://github.com/SinaElahimanesh
+      link: 
 
 - name: Ahmad Salimi
   role: Head of Project
