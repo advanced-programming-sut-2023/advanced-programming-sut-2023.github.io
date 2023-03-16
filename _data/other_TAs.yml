@@ -1,36 +1,29 @@
-- name: Saber Zafarpour
+- name: Mohammad Mahdi Gheidi
   roles:
     - Project
-  image: saberzafarpour.png
+    - Phase 3
+  image: personal_photo_square - Mahdi Gheidi.jpeg
   social:
     - name: github
-      link: https://github.com/SaberDoTcodeR
+      link: https://github.com/mahdigheidi
     - name: linkedin
-      link: https://www.linkedin.com/in/saber-z-40084b121/
+      link: https://www.linkedin.com/in/mahdi-gheidi/
 
-- name: Hadi Esnaashari
+- name: Sina Elahimanesh
   roles:
-    - Public Relations
-    - Project
-  image: hadiesna.png
+    - Website
+  image: sinaelahimanesh.jpeg
   social:
     - name: github
-      link: https://github.com/HadiEsna
+      link: https://github.com/SinaElahimanesh
     - name: linkedin
-      link: https://www.linkedin.com/in/hadiesnaashari/
-    - name: twitter
-      link: https://twitter.com/hadiesna
+      link: https://www.linkedin.com/in/sina-elahimanesh
 
-- name: Hamila Mailee
+- name: Negar Askari
   roles:
-    - Public Relations
     - Project
-  image: hamilamailee.png
+  image: Screenshot_20230228_225204_Gallery - Negar Askari
   social:
-    - name: github
-      link: https://github.com/hamilamailee
-    - name: linkedin
-      link: https://www.linkedin.com/in/hamila-mailee-834b07195
 
 - name: Alireza Ilami
   roles:
