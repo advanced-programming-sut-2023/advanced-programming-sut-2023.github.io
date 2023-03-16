@@ -119,3 +119,27 @@
     - Workshops
   image: photo - Seyed Ali Jafari.jpg
 
+- name: Alireza Alipanah
+  roles:
+    - Assignments
+  image: 1647F867-A18A-46EE-8319-D47D179E407E - alireza alipanah.jpeg
+  
+  - name: Reza Heidari
+  roles:
+    - Project
+    - Phase 3
+  image: me_3 - Reza Heidari.jpg
+  social:
+    - name: github
+      link: https://github.com/reza-heidari-ce
+    - name: linkedin
+      link: https://www.linkedin.com/in/reza-heidari-277a62240/
+
+  - name: Ilya Mahrooghi
+  roles:
+    - Project
+    - Phase 2
+  image: 48C1595E-CDA8-4A9B-AFB3-278BE2125A11 - ilya mahrooghi.jpeg
+  social:
+    - name: github
+      link: https://github.com/ilya-mahrooghi
