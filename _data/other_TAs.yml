@@ -168,3 +168,49 @@
     - name: linkedin
       link: https://www.linkedin.com/in/arshia-akhavan-b937371ab
 
+- name: Omid Daliran
+  roles:
+    - Assignments
+  image: unnamed - Omid Daliran.jpg
+  social:
+    - name: github
+      link: https://github.com/omid-d
+    - name: linkedin
+      link: https://www.linkedin.com/in/omid-daliran-0696a61a1/
+
+- name: Amir Hossein Ravan Nakhjavani
+  roles:
+    - Workshops
+  image: IMG_20230223_031220 - Amir Ravan.jpg
+  social:
+    - name: github
+      link: https://github.com/amirHravan
+
+- name: Ali Shahali
+  roles:
+    - Assignments
+  image: 1V0A9391 - Ali Shahali.JPG
+
+- name: Nikan Vasei
+  roles:
+    - Assignments
+  image: photo_2023-03-07_23-27-05 - nikan vasei.jpg
+  social:
+    - name: github
+      link: https://github.com/NikanV
+    - name: linkedin
+      link: https://www.linkedin.com/in/nikan-vasei-049830248/
+
+- name: Maziar Shamsipour
+  roles:
+    - Assignments
+    - Project
+    - Phase 1
+    - Phase 3
+  image: IMG_20230308_003347 - Maziar Shamsipour.jpg
+  social:
+    - name: github
+      link: https://github.com/tandalalam
+    - name: linkedin
+      link: https://www.linkedin.com/in/maziar-shamsipour-063935222
+   
