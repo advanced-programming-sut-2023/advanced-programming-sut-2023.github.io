@@ -218,7 +218,7 @@
     - name: linkedin
       link: https://www.linkedin.com/in/maziar-shamsipour-063935222
       
- - name: Hooman Keshvari
+- name: Hooman Keshvari
   roles:
     - Assignments
   image: 83747547-04F6-4DE9-8C52-21CE3C8B3CD4 - hooman keshvari.jpeg
@@ -226,13 +226,13 @@
     - name: twitter
       link: https://twitter.com/TheBigWhoMan
       
- - name: Amir Mohammad Derakhshandeh
+- name: Amir Mohammad Derakhshandeh
   roles:
     - Assignments
     - Projects
    image: 1 - amir derakhshandeh.jpeg
  
-  - name: Mohsen Ghasemi
+- name: Mohsen Ghasemi
   roles:
     - Assignments
     - Projects
@@ -246,7 +246,7 @@
       link: https://twitter.com/MGhasemi8156?t=zQPXBGdtp-UElTJfpUs1Jw&s=09
    
 
-  - name: Amirhossein kouchakian
+- name: Amirhossein kouchakian
   roles:
     - Assignments
     - Workshops
@@ -254,4 +254,5 @@
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/amirhossein-kouchakian-88b444264
-
+      
+ 
