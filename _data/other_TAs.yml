@@ -118,13 +118,11 @@
   roles:
     - Workshops
   image: photo - Seyed Ali Jafari.jpg
-  social:
 
 - name: Alireza Alipanah
   roles:
     - Assignments
   image: 1647F867-A18A-46EE-8319-D47D179E407E - alireza alipanah.jpeg
-  social:
 
 - name: Reza Heidari
   roles:
@@ -150,7 +148,6 @@
   roles:
     - Project
   image: IMG_20230305_202523_737 - EMEJ.jpg
-  social:
 
 - name: Taraneh Khosrojerdi
   roles:
@@ -193,7 +190,6 @@
   roles:
     - Assignments
   image: 1V0A9391 - Ali Shahali.JPG
-  social:
 
 - name: Nikan Vasei
   roles:
@@ -255,4 +251,12 @@
     - name: linkedin
       link: https://www.linkedin.com/in/amirhossein-kouchakian-88b444264
       
- 
+- name: Sara Zahedi
+  roles:
+    - Website
+  image: sarazahedi.jpg
+  social:
+    - name: github
+      link: https://github.com/sarazm2000
+    - name: linkedin
+      link: https://www.linkedin.com/in/sara-zahedi-movahed/
