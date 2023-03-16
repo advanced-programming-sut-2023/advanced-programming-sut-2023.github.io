@@ -5,18 +5,18 @@
     - name: linkedin
       link: https://www.linkedin.com/in/amirmahdi-kousheshi-344326166
 
-- name: Ahmad Salimi
+- name: Arman Babaei
   role: Head of Project
-  image: ahmadsalimi.png
+  image: 
   social:
     - name: github
-      link: https://github.com/ahmadsalimi
+      link: 
     - name: linkedin
-      link: https://linkedin.com/in/ahmadsalimi
+      link: 
     - name: twitter
-      link: https://twitter.com/ChichekaMan
+      link: 
 
-- name: MohammadHossein Gheisarieh
+- name: Hirbod Behnam
   role: Head of Assignments
   image: M.HGheisarieh.png
   social:
@@ -27,24 +27,3 @@
     - name: twitter
       link: https://twitter.com/mhgheisarieh
 
-- name: Hamed Khanaki
-  role: Head of Workshops
-  image: HamedKhanaki.png
-  social:
-    - name: github
-      link: https://github.com/HamedKh99
-    - name: linkedin
-      link: https://www.linkedin.com/in/hamed-khanaki
-    - name: twitter
-      link: https://twitter.com/_hamedkhanaki
-
-- name: Amirhossein Abbasi
-  role: Head of Public Relations
-  image: AmirHosseinAbbasi.png
-  social:
-    - name: github
-      link: http://github.com/ahak14
-    - name: linkedin
-      link: https://www.linkedin.com/in/amirhosseinabbasi
-    - name: twitter
-      link: http://twitter.com/_AHAK_
