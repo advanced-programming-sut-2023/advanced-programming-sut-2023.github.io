@@ -213,4 +213,50 @@
       link: https://github.com/tandalalam
     - name: linkedin
       link: https://www.linkedin.com/in/maziar-shamsipour-063935222
+  
+- name: Hooman Keshvari
+  roles:
+    - Assignments
+  image: 83747547-04F6-4DE9-8C52-21CE3C8B3CD4 - hooman keshvari.jpeg
+  social:
+    - name: twitter
+      link: https://twitter.com/TheBigWhoMan
+      
+- name: Amir Mohammad Derakhshandeh
+  roles:
+    - Assignments
+    - Projects
+   image: 1 - amir derakhshandeh.jpeg
+ 
+- name: Mohsen Ghasemi
+  roles:
+    - Assignments
+    - Projects
+  image: IMG_20230308_201727_746 - Mohsen Ghasemi.jpg
+  social:
+    - name: github
+      link: https://github.com/MGhasemi8156
+    - name: linkedin
+      link: https://www.linkedin.com/in/mghasemi8156
+    - name: twitter
+      link: https://twitter.com/MGhasemi8156?t=zQPXBGdtp-UElTJfpUs1Jw&s=09
    
+
+- name: Amirhossein kouchakian
+  roles:
+    - Assignments
+    - Workshops
+  image: 20230311_102842 - Amir Koochk.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirhossein-kouchakian-88b444264
+      
+- name: Sara Zahedi
+  roles:
+    - Website
+  image: sarazahedi.jpg
+  social:
+    - name: github
+      link: https://github.com/sarazm2000
+    - name: linkedin
+      link: https://www.linkedin.com/in/sara-zahedi-movahed/
