@@ -22,93 +22,90 @@
 - name: Negar Askari
   roles:
     - Project
-  image: Screenshot_20230228_225204_Gallery - Negar Askari
+  image: Screenshot_20230228_225204_Gallery - Negar Askari.jpg
   social:
 
-- name: Alireza Ilami
-  roles:
-    - Public Relations
-  image: alirezailami.png
-  social:
-    - name: github
-      link: https://github.com/sepehrilami
-    - name: linkedin
-      link: https://linkedin.com/in/alirezailami
-    - name: twitter
-      link: https://twitter.com/shepelll
-
-- name: Ali Shirmohammadi
-  roles:
-    - Workshop
-    - Assignments
-  image: alishirmohammadi.png
-  social:
-    - name: github
-      link: https://github.com/alishirmohammadi
-    - name: linkedin
-      link: https://www.linkedin.com/in/ali-shirmohammadi-b77625178/
-    - name: twitter
-      link: https://twitter.com/alishmdi
-
-- name: Mohammad Hosein Bahmani
-  roles:
-    - Public Relations
-    - Workshop
-  image: mohammadhoseinbahmani.png
-  social:
-    - name: github
-      link: https://github.com/mhbahmani
-    - name: linkedin
-      link: https://www.linkedin.com/in/mohammad-hosein-bahmani-ab6b7911b
-    - name: twitter
-      link: https://twitter.com/mh_bahmani
-
-- name: Pooya Moini
-  roles:
-    - Assignments
-    - Project
-  image: PooyaMoini.png
-  social:
-    - name: github
-      link: https://github.com/pooyamoini
-    - name: linkedin
-      link: https://www.linkedin.com/in/pouya-moeini-472b29177
-    - name: twitter
-      link: https://twitter.com/poomoiyani
-
-- name: Seyed Mahdi Sadegh Shobeiri
+- name: Sepehr Mizanian
   roles:
     - Project
-  image: mahdiShobeiri.png
-
-- name: Parham Saremi
-  roles:
     - Assignments
-  image: ParhamSaremi.png
+  image: 3x4 - Sepehr Mizanian.png
   social:
     - name: github
-      link: http://github.com/parhamsaremi
+      link: https://github.com/smizanian
     - name: linkedin
-      link: https://www.linkedin.com/in/parham-saremi-a64a30197
+      link: https://www.linkedin.com/in/sepehr-mizanian-a7149b248
     - name: twitter
-      link: http://twitter.com/parham1379
+      link: https://twitter.com/smizanian
 
-- name: Mohsen Dehghankar
+- name: Payam Taebi
   roles:
     - Assignments
-    - Project
-  image: MohsenDehghankar.png
+  image: me - Payam.jpg
   social:
     - name: github
-      link: http://github.com/MohsenDehghankar
+      link: https://github.com/aqaPayam
     - name: linkedin
-      link: https://www.linkedin.com/in/mohsen-dehghankar-b92788158
+      link: https://www.linkedin.com/in/payam-taebi-406499248/
 
-- name: Alireza Tajmirriahi
+- name: Reza Soumi
+  roles:
+    - Project
+    - Phase 3
+  image: 8CBF3EAA-BD34-449C-BCAA-6A638FACBD32 - Reza Soumi.jpeg
+  social:
+    - name: github
+      link: https://github.com/rezasoumi
+    - name: linkedin
+      link: https://www.linkedin.com/in/reza-soumi
+
+- name: Mohammadamin Aryan
+  roles:
+    - Project
+    - Phase 1
+  image: photo_2022-12-01_22-46-51 - Mohammadamin Aryan (aminaryan).jpg
+  social:
+    - name: github
+      link: https://github.com/aminaryan80/
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammadamin-aryan/
+
+- name: Mahdi Alizade
+  roles:
+    - Project
+    - Assignments
+  image: photo_2022-09-03_18-33-03 - Mhdi Alizadeh.jpg
+  social:
+    - name: github
+      link: http://github.com/alizademhdi
+    - name: twitter
+      link: https://twitter.com/alizademhdi
+
+- name: Mohammad Aghaie
   roles:
     - Assignments
-    - Project
-  image: AlirezaTajmirriahi.png
+  image: 20230118_121042 - Mohammad Aghaie.jpg
+  social:
+    - name: github
+      link: https://github.com/mohammad258852
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammad-aghaie-20704a1aa
+
+- name: Amir Mohammad Fakhimi
+  roles:
+    - Assignments
+  image: Avatar - Amir Mohammad Fakhimi.jpeg
+  social:
+    - name: github
+      link: https://github.com/AmirMohammadFakhimi
+    - name: linkedin
+      link: https://linkedin.com/in/amir-mohammad-fakhimi
+
+- name: Mohammad Parsa Bashari
+  roles:
+    - Assignments
+    - Workshops
+  image: picture - Mohammad Parsa Bashari.jpg
   social:
     - name: github
       link: https://github.com/AlirezaT99
