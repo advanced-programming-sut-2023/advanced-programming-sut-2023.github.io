@@ -124,7 +124,7 @@
     - Assignments
   image: 1647F867-A18A-46EE-8319-D47D179E407E - alireza alipanah.jpeg
   
-  - name: Reza Heidari
+- name: Reza Heidari
   roles:
     - Project
     - Phase 3
@@ -135,7 +135,7 @@
     - name: linkedin
       link: https://www.linkedin.com/in/reza-heidari-277a62240/
 
-  - name: Ilya Mahrooghi
+- name: Ilya Mahrooghi
   roles:
     - Project
     - Phase 2
