@@ -1,9 +1,9 @@
 - name: Amirmahdi Koushesi
   role: Head TA
-  image: 
+  image: AmirmahdiKousheshi.jpg
   social:
-    - name: github
-      link: 
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirmahdi-kousheshi-344326166
 
 - name: Ahmad Salimi
   role: Head of Project
