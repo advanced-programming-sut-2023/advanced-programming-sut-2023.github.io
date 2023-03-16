@@ -143,3 +143,28 @@
   social:
     - name: github
       link: https://github.com/ilya-mahrooghi
+      
+- name: Emad EmamJomeh
+  roles:
+    - Project
+  image: IMG_20230305_202523_737 - EMEJ.jpg
+
+- name: Taraneh Khosrojerdi
+  roles:
+    - Project
+    - Phase 1
+  image: IMG_20230307_014621_625 - Taraneh Khosrojerdy.jpg
+  social:
+    - name: github
+      link: https://github.com/taranehkhosrojerdi
+
+- name: Arshia Akhavan
+  roles:
+    - Science
+  image: ArshiaAkhavan.png
+  social:
+    - name: github
+      link: https://github.com/ArshiAAkhavan
+    - name: linkedin
+      link: https://www.linkedin.com/in/arshia-akhavan-b937371ab
+
