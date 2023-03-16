@@ -27,4 +27,13 @@
     - name: twitter
       link: https://twitter.com/Thy_Crow
 
+  role: Head of Website
+  image: imanmohammadi.jpg
+  social:
+    - name: github
+      link: https://github.com/Imanm02
+    - name: linkedin
+      link: https://www.linkedin.com/in/imanmohammadi02/
+    - name: twitter
+      link: https://twitter.com/Iman_M_02
 
