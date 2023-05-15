@@ -15,6 +15,6 @@
   value: 78
   icon: users
 
-- title: Students
-  value: 180+
-  icon: user-circle
+# - title: Students
+#   value: 180+
+#   icon: user-circle
