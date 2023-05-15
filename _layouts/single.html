@@ -52,7 +52,7 @@
 
         <div class="section-blocks mb-5">
             {% for section in site.data.sections %}
-            <div id="section-{{ section.section }}" class="section-{{ section.section }} section" style="min-height: 500px;">
+            <div id="section-{{ section.section }}" class="section-{{ section.section }} section">
                 {% include sections/{{ section.section }}.html %}
             </div>
             {% endfor %}
