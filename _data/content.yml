@@ -1,128 +1,111 @@
 title:  What's Included
 includes:
-  - meta: Hours
-    data: 20
+  - meta: Homeworks
+    data: 5
+    
+  - meta: Project 
+    data: 3 Phases
 
-  - meta: Exercises
-    data: 4
+  - meta: CodeNameh
+    data: 2
 
   - meta: Assistants
-    data: 77
+    data: 78
 
   - meta: Students
-    data: 188+
+    data: 180+
 
  
 
 subtitle: Course Content
 
 lessons:
-  - title: "Lesson 0 : Let's get started !"
-    requirements: "Your PC & Internet *___*"
-    description: "Start..."
+  - title: "Assignment 0"
+    requirements: "Introduction to Advanced Programming"
+    description: "5 Questions"
     body: lesson_0
 
-  - title: "Lesson 1 : Know the basics"
-    requirements: "Search, Search, Search"
-    description: "These are the essentials, learn them well while doing
-      <b>Exercise 1</b> and please learn how to search."
-    body: lesson_1
-
-  - title: "Lesson 2 : Clean Code"
-    requirements: "Some of your previous codes, get the soap ready"
-    description: "Keeping your code clean is a very
-      important step in becoming a good programmer."
-    body: lesson_2
-
-  - title: "Review 1"
-    requirements: "Exercise 1, Data Structures"
-    description: "Review on some Data structures by Hamed Khanaki"
-    body: review_1
-
-  - title: "Extra Exercise 1"
-    requirements: "Regex (Pattern, Matcher), Stack"
-    description: "A code to validate HTML by Ali Shirmohammadi"
-    body: extra_exercise_1
-
-  - title: "Lesson 3 : Object Oriented"
-    requirements: "Data Structures"
-    description: "Start an Object Oriented program by Hamed Khanaki, <b>Exercise 2</b>"
-    body: lesson_3
-
-  - title: "Review 2"
-    requirements: "Object Oriented Programming"
-    description: "Review on Object Oriented programming, Know a bit about Inheritance by Hamed Khanaki"
-    body: review_2
-
-  - title: "Lesson 4 : Inheritance, Polymorphism and Abstract"
-    requirements: "Object Oriented Programming, Class"
-    description: "Inheritance, Polymorphism and Abstract by Hamed Khanaki"
-    body: lesson_4
-
-  - title: "Lesson 5 : Debugging with Intellij Debugger"
-    requirements: "Intellij, A code with bugs"
-    description: "One of the most important part in programming is debugging, so make sure you learn this part well."
-    body: lesson_5
-
-  - title: "Lesson 6 : Github"
-    requirements: "Intellij, Github Account"
-    description: "Github introduction by Mohammadhossein Bahmani"
-    body: lesson_6
-
-  - title: "Lesson 7 : MVC design and creating menu for project"
-    requirements: "Object Oriented Programming"
-    description: "A tutorial on MVC by Hamed Khanaki"
-    body: lesson_7
-
-  - title: "Project : Phase 0"
-    requirements: "MVC, UML design"
-    description: "Use what you have learned so far to create an online market, using UML, Trello and Github"
-    body: project_0
-
-  - title: "Project : Phase 1"
-    requirements: "JSON, Data Structures, Object Oriented Programming, MVC"
-    description: "Start your project, Apache Maven, Unit Test, Code Coverage by Ahmad Salimi"
-    body: project_1
-
-  - title: "Extra Exercise 2"
-    requirements: "Object Oriented Programming, Inheritance"
-    description: "A code to create a Supermarket with Java, using MVC design by Ali Shirmohammadi"
-    body: extra_exercise_2
-
-  - title: "Lesson 8 : Error Handling, Exceptions and Runtime Exceptions"
-    requirements: "Error Handling, Exceptions"
-    description: "All you need to know about Errors and Exceptions by Ali Shirmohammadi"
-    body: lesson_8
-  
-  - title: "Lesson 9 : Interface"
-    requirements: "Java Classes, Inheritance"
-    description: "Best sources to learn Interfaces from"
-    body: lesson_9
-
-  - title: "Lesson 10 : JavaFX and Graphic"
-    requirements: "JavaFX, Github, MVC, Generic <i>(needed for Exercise)</i>"
-    description: "Get started on animating your project, presented by Ali Shirmohammadi 
-    <p>An Exercise on Graphic and Generic to further your learning</p>"
-    body: lesson_10
-  
-  - title: "Lesson 11 : Thread on Java"
-    requirements: "Java Data Structures"
-    description: "An introduction to Thread by Hamed Khanaki"
-    body: lesson_11
-
-  - title: "Project : Phase 2"
-    requirements: "JavaFX"
-    description: "Add Graphics to your project, Yaaay! ^__^"
-    body: project_2
-
-  - title: "Lesson 12 : Server and Socket Programming"
-    requirements: "Thread"
-    description: "Learn about Socket programming and Server, a presentation by Hamed Khanaki"
-    body: lesson_12
-
-  - title: "Project : Phase 3"
-    requirements: "Everything you've learned"
-    description: "Handle a server based digital market and you're done. Good Job!"
-    body: project_3
-
+  - title: "Assignment 1"
+    requirements: "Object-Oriented"
+    description: "3 Questions"
+    body: lesson_0
+    
+  - title: "Assignment 2"
+    requirements: "Graphics"
+    description: "1 Question (4 Parts)"
+    body: lesson_0
+    
+  - title: "Assignment 3"
+    requirements: "Thread, Network, Generic"
+    description: "To be done"
+    body: lesson_0
+    
+  - title: "Assignment 4"
+    requirements: "Reflection"
+    description: "To be done"
+    body: lesson_0
+    
+  - title: "Project Phase 0"
+    description: "The first steps of setuping the project."
+    body: lesson_0
+    
+  - title: "Project Phase 1"
+    description: "First phase"
+    body: lesson_0
+    
+  - title: "Project Phase 2"
+    description: "Second Phase"
+    body: lesson_0
+    
+  - title: "Project Phase 3"
+    description: "Thrid Phase"
+    body: lesson_0
+    
+  - title: "CodeNameh 1"
+    description: "The Art of Clean Code 1"
+    body: lesson_0
+    
+  - title: "CodeNameh 2"
+    description: "The Art of Clean Code 2"
+    body: lesson_0
+    
+  - title: "Workshop 1"
+    description: "The Basics of Java Programming"
+    body: lesson_0
+    
+  - title: "Workshop 2"
+    description: "RegEx"
+    body: lesson_0
+    
+  - title: "Workshop 3"
+    description: "Object-Oriented"
+    body: lesson_0
+    
+  - title: "Workshop 4"
+    description: "Inheritance"
+    body: lesson_0
+    
+  - title: "Workshop 5"
+    description: "Object-Oriented 2"
+    body: lesson_0
+    
+  - title: "Workshop 6"
+    description: "Git 1"
+    body: lesson_0
+    
+  - title: "Workshop 7"
+    description: "Git 2"
+    body: lesson_0
+    
+  - title: "Workshop 8"
+    description: "Unit Test"
+    body: lesson_0
+    
+  - title: "Workshop 9"
+    description: "Graphics"
+    body: lesson_0
+    
+  - title: "Workshop 10"
+    description: "Graphics 2"
+    body: lesson_0
 
