@@ -2,7 +2,7 @@
   section: overview
   navbar: true
   
-  - title: Calender
+- title: Calender
   section: calender
   navbar: true
 
