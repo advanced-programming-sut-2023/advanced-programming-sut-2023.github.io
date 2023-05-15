@@ -23,12 +23,12 @@ lessons:
   - title: "Assignment 0"
     requirements: "Introduction to Advanced Programming"
     description: "5 Questions"
-    body: lesson_0
+    body: lesson_1
 
   - title: "Assignment 1"
     requirements: "Object-Oriented"
     description: "3 Questions"
-    body: lesson_0
+    body: lesson_1
     
   - title: "Assignment 2"
     requirements: "Graphics"
