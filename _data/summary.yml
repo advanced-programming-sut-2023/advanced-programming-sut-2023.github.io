@@ -1,16 +1,20 @@
-- title: Duration
-  value: 20
+- title: Homeworks
+  value: 5
   icon: clock
-  desc: Hours
+  desc: book
 
-- title: Exercises
-  value: 4 Extras
+- title: Project
+  value: 3 Phases
+  icon: book
+  
+- title: CodeNameh
+  value: 2
   icon: book
 
 - title: TAs
-  value: 77
+  value: 78
   icon: users
 
 - title: Students
-  value: 188+
+  value: 180+
   icon: user-circle
