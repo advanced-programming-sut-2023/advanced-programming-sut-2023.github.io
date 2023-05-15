@@ -23,89 +23,89 @@ lessons:
   - title: "Assignment 0"
     requirements: "Introduction to Advanced Programming"
     description: "5 Questions"
-    body: lesson_1
+    body: hw0
 
   - title: "Assignment 1"
     requirements: "Object-Oriented"
     description: "3 Questions"
-    body: lesson_1
+    body: hw1
     
   - title: "Assignment 2"
     requirements: "Graphics"
     description: "1 Question (4 Parts)"
-    body: lesson_0
+    body: hw2
     
   - title: "Assignment 3"
     requirements: "Thread, Network, Generic"
     description: "To be done"
-    body: lesson_0
+    body: hw3
     
   - title: "Assignment 4"
     requirements: "Reflection"
     description: "To be done"
-    body: lesson_0
+    body: hw4
     
   - title: "Project Phase 0"
     description: "The first steps of setuping the project."
-    body: lesson_0
+    body: pp0
     
   - title: "Project Phase 1"
     description: "First phase"
-    body: lesson_0
+    body: pp1
     
   - title: "Project Phase 2"
     description: "Second Phase"
-    body: lesson_0
+    body: pp2
     
   - title: "Project Phase 3"
     description: "Thrid Phase"
-    body: lesson_0
+    body: pp3
     
   - title: "CodeNameh 1"
     description: "The Art of Clean Code 1"
-    body: lesson_0
+    body: cn1
     
   - title: "CodeNameh 2"
     description: "The Art of Clean Code 2"
-    body: lesson_0
+    body: cn2
     
   - title: "Workshop 1"
     description: "The Basics of Java Programming"
-    body: lesson_0
+    body: ws1
     
   - title: "Workshop 2"
     description: "RegEx"
-    body: lesson_0
+    body: ws2
     
   - title: "Workshop 3"
     description: "Object-Oriented"
-    body: lesson_0
+    body: ws3
     
   - title: "Workshop 4"
     description: "Inheritance"
-    body: lesson_0
+    body: ws4
     
   - title: "Workshop 5"
     description: "Object-Oriented 2"
-    body: lesson_0
+    body: ws5
     
   - title: "Workshop 6"
     description: "Git 1"
-    body: lesson_0
+    body: ws6
     
   - title: "Workshop 7"
     description: "Git 2"
-    body: lesson_0
+    body: ws7
     
   - title: "Workshop 8"
     description: "Unit Test"
-    body: lesson_0
+    body: ws8
     
   - title: "Workshop 9"
     description: "Graphics"
-    body: lesson_0
+    body: ws9
     
   - title: "Workshop 10"
     description: "Graphics 2"
-    body: lesson_0
+    body: ws10
 
