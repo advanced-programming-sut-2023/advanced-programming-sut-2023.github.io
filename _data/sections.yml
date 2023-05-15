@@ -6,6 +6,10 @@
   section: content
   navbar: true
 
+- title: Clender
+  section: calender
+  navbar: true
+
 - title: Best Projects
   section: projects
   navbar: true
