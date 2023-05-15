@@ -3,8 +3,8 @@ includes:
   - meta: Homeworks
     data: 5
     
-  - meta: Project 
-    data: 3 Phases
+  - meta: Project Phases
+    data: 3 
 
   - meta: CodeNameh
     data: 2
