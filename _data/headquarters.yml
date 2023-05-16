@@ -2,12 +2,11 @@
   role: Head TA
   image: AmirmahdiKousheshi.jpg
   social:
-    - name: linkedin
-      link: https://www.linkedin.com/in/amirmahdi-kousheshi-344326166
     - name: github
       link: https://github.com/amkamir82
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirmahdi-kousheshi-344326166
       
-
 - name: Arman Babaei
   role: Head of Project
   image: Arman Babaei.jpeg
