@@ -5,6 +5,28 @@
             <div class="row heading heading-icon">
                 <h2>Education Team</h2>
             </div>
+
+            <ul class="row px-2 py-2">
+                {% for head in site.data.lecturer %}
+                <li class="col my-1 px-2">
+                    <div class="rounded-lg cnt-block equal-hight" style="height: 340px;">
+                        <figure><img src="assets/images/team/{{ head.image }}" class="img-responsive" alt=""></figure>
+                        <h3 class="align-middle">{{ head.name }}</h3>
+                        <p>{{ head.role }}</p>
+                        {% if head.social %}
+                        <ul class="follow-us clearfix">
+                            {% for social in head.social %}
+                            <li><a href="{{ social.link }}"><i class="fab fa-{{ social.name }}"
+                                        aria-hidden="true"></i></a></li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+
+
             <ul class="row px-2 py-2">
                 {% for head in site.data.headquarters %}
                 <li class="col my-1 px-2">
