@@ -358,3 +358,22 @@
   social:
     - name: github
       link: http://github.com/cyberrosa
+
+- name: Alireza Amiri
+  roles:
+    - Project
+    - Assignments
+  image: Alireza-Amiri.jpeg
+  social:
+    - name: github
+      link: https://github.com/Alireza-81
+
+- name: Donya Navabi
+  roles:
+    - Assignments
+  image: Donya-Navabi.jpg
+  social:
+    - name: github
+      link: https://github.com/DnyaNvB
+    - name: linkedin
+      link: http://www.linkedin.com/in/donya-navabi
