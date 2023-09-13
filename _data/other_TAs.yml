@@ -223,13 +223,13 @@
 - name: Amir Mohammad Derakhshandeh
   roles:
     - Assignments
-    - Projects
+    - Project
   image: 1 - amir derakhshandeh.jpeg
   
 - name: Mohsen Ghasemi
   roles:
     - Assignments
-    - Projects
+    - Project
   image: IMG_20230308_201727_746 - Mohsen Ghasemi.jpg
   social:
     - name: github
@@ -258,3 +258,42 @@
       link: https://github.com/sarazm2000
     - name: linkedin
       link: https://www.linkedin.com/in/sara-zahedi-movahed/
+
+- name: Parham Houshmand
+  roles:
+    - Project
+  image: Parham-Houshmand.jpg
+  social:
+    - name: github
+      link: https://github.com/prhdm
+    - name: linkedin
+      link: https://www.linkedin.com/in/parham-houshmand
+
+- name: Amirhossein Razlighi
+  roles:
+    - Project
+  image: AmirHossein-Razlighi.jpeg
+  social:
+    - name: github
+      link: http://github.com/amirhossein-razlighi/
+    - name: linkedin
+      link: http://linkedin.com/in/amirhossein-razlighi-435103116/
+    - name: twitter
+      link: https://twitter.com/amirhossein_nr?s=21&t=x8iE9NKCjj1K3tl9th7EDQ
+
+- name: Hamed Saboor
+  roles:
+    - Assignments
+    - Project
+  image: Hamed-Saboor.jpg
+  social:
+    - name: github
+      link: http://github.com/HamedSY
+
+- name: Erfan Mojibi
+  roles:
+    - Project
+  image: Erfan-Mojibi.jpg
+  social:
+    - name: github
+      link: http://github.com/ErfanMojibi
