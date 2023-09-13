@@ -339,3 +339,22 @@
       link: https://www.linkedin.com/in/ali-sadeghi-762623248/
     - name: twitter
       link: https://twitter.com/li_sadeghi
+
+- name: Maedeh Heydari
+  roles:
+    - Project
+    - Workshops
+  image: Maedeh-Heydari.jpg
+  social:
+    - name: github
+      link: https://github.com/maedehheydari
+    - name: linkedin
+      link: https://www.linkedin.com/in/maedeh-heydari-b84613232/
+
+- name: Parham Rezaei
+  roles:
+    - Project
+  image: Parham-Rezaei.png
+  social:
+    - name: github
+      link: http://github.com/cyberrosa
