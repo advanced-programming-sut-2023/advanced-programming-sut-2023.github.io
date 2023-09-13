@@ -2,7 +2,7 @@
   roles:
     - Project
     - Phase 3
-  image: personal_photo_square - Mahdi Gheidi.jpeg
+  image: Mahdi-Gheidi.jpeg
   social:
     - name: github
       link: https://github.com/mahdigheidi
@@ -41,7 +41,7 @@
 - name: Payam Taebi
   roles:
     - Assignments
-  image: me - Payam.jpg
+  image: Payam-Taebi.jpg
   social:
     - name: github
       link: https://github.com/aqaPayam
@@ -169,7 +169,7 @@
 - name: Omid Daliran
   roles:
     - Assignments
-  image: unnamed - Omid Daliran.jpg
+  image: Omid-Daliran.jpg
   social:
     - name: github
       link: https://github.com/omid-d
@@ -224,13 +224,13 @@
   roles:
     - Assignments
     - Project
-  image: 1 - amir derakhshandeh.jpeg
+  image: Amir-Derakhshandeh.jpeg
   
 - name: Mohsen Ghasemi
   roles:
     - Assignments
     - Project
-  image: IMG_20230308_201727_746 - Mohsen Ghasemi.jpg
+  image: Mohsen-Ghasemi.jpg
   social:
     - name: github
       link: https://github.com/MGhasemi8156
