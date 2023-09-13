@@ -29,7 +29,7 @@
   roles:
     - Project
     - Assignments
-  image: 3x4 - Sepehr Mizanian.png
+  image: Sepehr-Mizanian.png
   social:
     - name: github
       link: https://github.com/smizanian
@@ -52,7 +52,7 @@
   roles:
     - Project
     - Phase 3
-  image: 8CBF3EAA-BD34-449C-BCAA-6A638FACBD32 - Reza Soumi.jpeg
+  image: Reza-Soumi.jpeg
   social:
     - name: github
       link: https://github.com/rezasoumi
@@ -84,7 +84,7 @@
 - name: Mohammad Aghaie
   roles:
     - Assignments
-  image: 20230118_121042 - Mohammad Aghaie.jpg
+  image: Mohammad-Aghaie.jpg
   social:
     - name: github
       link: https://github.com/mohammad258852
@@ -120,7 +120,7 @@
 - name: Alireza Alipanah
   roles:
     - Assignments
-  image: 1647F867-A18A-46EE-8319-D47D179E407E - alireza alipanah.jpeg
+  image: Alireza-Alipanah.jpeg
   
 - name: Reza Heidari
   roles:
@@ -137,7 +137,7 @@
   roles:
     - Project
     - Phase 2
-  image: 48C1595E-CDA8-4A9B-AFB3-278BE2125A11 - ilya mahrooghi.jpeg
+  image: Ilya-Mahrooghi.jpeg
   social:
     - name: github
       link: https://github.com/ilya-mahrooghi
@@ -187,7 +187,7 @@
 - name: Ali Shahali
   roles:
     - Assignments
-  image: 1V0A9391 - Ali Shahali.JPG
+  image: Ali-Shahali.JPG
 
 - name: Nikan Vasei
   roles:
@@ -205,7 +205,7 @@
     - Project
     - Phase 1
     - Phase 3
-  image: IMG_20230308_003347 - Maziar Shamsipour.jpg
+  image: Maziar-Shamsipour.jpg
   social:
     - name: github
       link: https://github.com/tandalalam
@@ -215,7 +215,7 @@
 - name: Hooman Kashvari
   roles:
     - Assignments
-  image: 83747547-04F6-4DE9-8C52-21CE3C8B3CD4 - hooman keshvari.jpeg
+  image: Hooman-Keshvari.jpeg
   social:
     - name: github
       link: https://twitter.com/heBigWhoMan
@@ -244,7 +244,7 @@
   roles:
     - Assignments
     - Workshops
-  image: 20230311_102842 - Amir Koochk.jpg
+  image: Amir-Koochk.jpg
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/amirhossein-kouchakian-88b444264
