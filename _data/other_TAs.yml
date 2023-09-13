@@ -22,7 +22,7 @@
 - name: Negar Askari
   roles:
     - Project
-  image: Screenshot_20230228_225204_Gallery - Negar Askari.jpg
+  image: Negar Askari.jpg
   social:
 
 - name: Sepehr Mizanian
@@ -151,7 +151,7 @@
   roles:
     - Project
     - Phase 1
-  image: IMG_20230307_014621_625 - Taraneh Khosrojerdy.jpg
+  image: Taraneh-Khosrojerdy.jpg
   social:
     - name: github
       link: https://github.com/taranehkhosrojerdi
@@ -292,8 +292,38 @@
 
 - name: Erfan Mojibi
   roles:
-    - Project
+    - Workshops
   image: Erfan-Mojibi.jpg
   social:
     - name: github
       link: http://github.com/ErfanMojibi
+
+- name: Pouya Lahabi
+  roles:
+    - Assignments
+    - Project
+  image: Pouya-Lahabi.jpeg
+  social:
+    - name: github
+      link: https://github.com/PouyaL03
+    - name: linkedin
+      link: https://www.linkedin.com/in/pouya-lahabi-82113759/
+
+- name: Sam Khanaki
+  roles:
+    - Workshops
+  image: Hamed-Saboor.jpg
+  social:
+    - name: github
+      link: https://github.com/HolyFatherJose
+
+- name: Mohammadali Hosseinnezhad
+  roles:
+    - Assignments
+    - Project
+  image: Mohammadali-Hosseinnezhadabdi.jpeg
+  social:
+    - name: github
+      link: https://github.com/mohammadhnz
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammadali-hosseinnezhad-b82a341bb
