@@ -12,7 +12,7 @@
 - name: Sina Elahimanesh
   roles:
     - Website
-  image: sinaelahimanesh.jpeg
+  image: Sina-Elahimanesh.jpeg
   social:
     - name: github
       link: https://github.com/SinaElahimanesh
@@ -145,7 +145,7 @@
 - name: Emad EmamJomeh
   roles:
     - Project
-  image: IMG_20230305_202523_737 - EMEJ.jpg
+  image: Emad-Emamjomeh.jpg
 
 - name: Taraneh Khosrojerdi
   roles:
@@ -179,7 +179,7 @@
 - name: Amir Hossein Ravan Nakhjavani
   roles:
     - Workshops
-  image: IMG_20230223_031220 - Amir Ravan.jpg
+  image: Amirhossein-Ravan-Nakhjavani.jpg
   social:
     - name: github
       link: https://github.com/amirHravan
