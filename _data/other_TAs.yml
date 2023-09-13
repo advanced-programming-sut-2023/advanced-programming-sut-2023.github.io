@@ -312,7 +312,7 @@
 - name: Sam Khanaki
   roles:
     - Workshops
-  image: Hamed-Saboor.jpg
+  image: Sam-Khanaki.jpg
   social:
     - name: github
       link: https://github.com/HolyFatherJose
@@ -327,3 +327,15 @@
       link: https://github.com/mohammadhnz
     - name: linkedin
       link: https://www.linkedin.com/in/mohammadali-hosseinnezhad-b82a341bb
+
+- name: Ali Sadeghi
+  roles:
+    - Assignments
+  image: Ali-Sadeghi.jpg
+  social:
+    - name: github
+      link: https://github.com/li-sadeghi
+    - name: linkedin
+      link: https://www.linkedin.com/in/ali-sadeghi-762623248/
+    - name: twitter
+      link: https://twitter.com/li_sadeghi
