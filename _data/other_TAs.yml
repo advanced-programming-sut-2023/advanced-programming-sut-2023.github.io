@@ -400,3 +400,12 @@
       link: https://github.com/shahabhm
     - name: linkedin
       link: https://www.linkedin.com/in/shahab-hosseini-moghaddam-286ba91ba
+
+- name: Mahyar Afshinmehr
+  roles:
+    - Assignments
+    - Project
+  image: Mahyar-Afshin.jpeg
+  social:
+    - name: github
+      link: https://github.com/MahyarAfshin
