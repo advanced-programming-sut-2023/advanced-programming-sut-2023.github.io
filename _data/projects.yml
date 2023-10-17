@@ -37,6 +37,87 @@
         - title: Aparat
           url: https://aparat.com/v/QSPgj
 
+- semester: Spring 2021
+  title: Yu-Gi-Oh!
+  icon: Yu-Gi-Oh!
+  projects:
+    - team: Spring 2021 GitHub Organization
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021
+    - team: Team 2
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-02
+        - title: Aparat
+          url: https://www.aparat.com/v/kHrdE
+    - team: Team 9
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-09
+        - title: Aparat
+          url: http://www.aparat.com/v/u96xp
+    - team: Team 10
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-10
+        - title: Aparat
+          url: https://www.aparat.com/v/zQsoh/
+    - team: Team 1
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-01
+        - title: Aparat
+          url: https://www.aparat.com/v/ZUGbJ
+    - team: Team 4
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-04
+        - title: Aparat
+          url: https://aparat.com/v/DwtIk
+    - team: Team 17
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-17
+        - title: Aparat
+          url: https://www.aparat.com/v/augqH
+    - team: Team 20
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-20
+        - title: Aparat
+          url: https://www.aparat.com/v/cABUj
+    - team: Team 22
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-22
+        - title: Aparat
+          url: http://www.aparat.com/v/g591Y
+    - team: Team 24
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-24
+        - title: Aparat
+          url: https://aparat.com/v/shaP8
+    - team: Team 29
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-29
+        - title: Aparat
+          url: http://www.aparat.com/v/eYrbR
+    - team: Team 52
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-52
+        - title: Aparat
+          url: https://www.aparat.com/v/MRHmI
+    - team: Team 52
+      links:
+        - title: Repository
+          url: https://github.com/Advanced-Programming-2021/project-team-55
+        - title: Aparat
+          url: https://www.aparat.com/v/p4t7q
+
 - semester: Spring 2020
   title: Shop Application
   icon: shopping-cart
