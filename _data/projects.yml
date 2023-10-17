@@ -37,6 +37,49 @@
         - title: Aparat
           url: https://aparat.com/v/QSPgj
 
+- semester: Spring 2022
+  title: Civilization
+  icon: civilization
+  projects:
+    - team: Spring 2022 GitHub Organization
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022
+    - team: Team 3
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-03
+        # - title: Aparat
+        #   url: https://www.aparat.com/v/toZiX
+    - team: Team 29
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-29
+    - team: Team 22
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-22
+    - team: Team 6
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-06
+    - team: Team 34
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-34
+    - team: Team 2
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-02
+    - team: Team 7
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-07
+    - team: Team 15
+      links:
+        - title: Repository
+          url: https://github.com/AdvancedProgrammingSUT2022/project-group-15
+
 - semester: Spring 2021
   title: Yu-Gi-Oh!
   icon: Yu-Gi-Oh!
