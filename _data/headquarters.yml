@@ -33,3 +33,11 @@
     - name: twitter
       link: https://twitter.com/Iman_M_02
 
+- name: Seyed Parsa Neshaei
+  role: Head of Exam
+  image: Seyed-Parsa-Neshari.jpeg
+  social:
+    - name: github
+      link: https://github.com/spneshaei
+    - name: linkedin
+      link: https://www.linkedin.com/in/spneshaei/
