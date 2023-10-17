@@ -377,3 +377,26 @@
       link: https://github.com/DnyaNvB
     - name: linkedin
       link: http://www.linkedin.com/in/donya-navabi
+
+- name: Amirhossein Azizi
+  roles:
+    - Assignments
+    - Project
+  image: Donya-Navabi.jpg
+  social:
+    - name: github
+      link: https://github.com/amirhosse-in/
+    - name: linkedin
+      link: https://www.linkedin.com/in/azizi-amirhossein/
+    - name: twitter
+      link: https://twitter.com/amirhosse_in
+
+- name: Shahab Hosseini Moghaddam
+  roles:
+    - Workshops
+  image: Donya-Navabi.jpg
+  social:
+    - name: github
+      link: https://github.com/shahabhm
+    - name: linkedin
+      link: https://www.linkedin.com/in/shahab-hosseini-moghaddam-286ba91ba
