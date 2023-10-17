@@ -1,3 +1,42 @@
+- semester: Spring 2023
+  title: Stronghold Crusader
+  icon: stronghold-crusader
+  projects:
+    - team: Spring 2023 GitHub Organization
+      links:
+        - title: Repository
+          url: https://github.com/advanced-programming-sut-2023
+    - team: Team 48
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-10
+        - title: Aparat
+          url: https://www.aparat.com/v/toZiX
+    - team: Team 9
+      links:
+        - title: Repository
+          url: https://github.com/advanced-programming-sut-2023/project-group-09
+        - title: Aparat
+          url: https://www.aparat.com/v/UPsBz
+    - team: Team 5
+      links:
+        - title: Repository
+          url: https://github.com/advanced-programming-sut-2023/project-group-05
+        - title: Aparat
+          url: http://aparat.com/v/fEvza
+    - team: Team 16
+      links:
+        - title: Repository
+          url: https://github.com/advanced-programming-sut-2023/project-group-16
+        - title: Aparat
+          url: https://www.aparat.com/v/XR90w
+    - team: Team 58
+      links:
+        - title: Repository
+          url: https://github.com/advanced-programming-sut-2023/project-group-58
+        - title: Aparat
+          url: https://aparat.com/v/QSPgj
+
 - semester: Spring 2020
   title: Shop Application
   icon: shopping-cart
