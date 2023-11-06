@@ -413,7 +413,7 @@
 - name: Pariya Hajipour
   roles:
     - Project
-  image: Mahyar-Afshin.jpeg
+  image: Pariya-Hajipour.jpg
   social:
     - name: github
       link: https://github.com/pariyahr
@@ -422,7 +422,7 @@
 
 - name: Armin Saghafian
   roles:
-    - Project
+    - Assignments
   image: Armin-Saghafian.jpg
   social:
     - name: github
@@ -432,7 +432,7 @@
 
 - name: Shayan Salehi
   roles:
-    - Project
+    - Assignments
   image: Shayan-Salehi.jpg
   social:
     - name: github
