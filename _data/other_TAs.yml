@@ -409,3 +409,23 @@
   social:
     - name: github
       link: https://github.com/MahyarAfshin
+
+- name: Pariya Hajipour
+  roles:
+    - Project
+  image: Mahyar-Afshin.jpeg
+  social:
+    - name: github
+      link: https://github.com/pariyahr
+    - name: linkedin
+      link: https://www.linkedin.com/in/pariya-hajipour
+
+- name: Armin Saghafian
+  roles:
+    - Project
+  image: Mahyar-Afshin.jpeg
+  social:
+    - name: github
+      link: https://github.com/pariyahr
+    - name: linkedin
+      link: https://www.linkedin.com/in/pariya-hajipour
