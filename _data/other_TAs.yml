@@ -423,7 +423,7 @@
 - name: Armin Saghafian
   roles:
     - Project
-  image: Mahyar-Afshin.jpeg
+  image: Armin-Saghafian.jpg
   social:
     - name: github
       link: https://github.com/ArminS03
@@ -433,7 +433,7 @@
 - name: Shayan Salehi
   roles:
     - Project
-  image: Mahyar-Afshin.jpeg
+  image: Shayan-Salehi.jpg
   social:
     - name: github
       link: https://github.com/pariyahr
